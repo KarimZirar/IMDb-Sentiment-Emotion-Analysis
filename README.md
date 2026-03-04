@@ -26,5 +26,5 @@ Main Findings (Brief):
 - Star ratings do not always align with emotional tone in reviews.
 
 Structure:
-notebooks/
-  Python_code.ipynb
+- Python_code.ipynb: Main analysis and model implementation.
+- Exploring Sentiment and Emotion Trends Across...: Full research paper in PDF format.
