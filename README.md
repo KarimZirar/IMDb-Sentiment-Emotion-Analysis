@@ -28,3 +28,9 @@ Main Findings (Brief):
 Structure:
 - Python_code.ipynb: Main analysis and model implementation.
 - Exploring Sentiment and Emotion Trends Across...: Full research paper in PDF format.
+
+## Author
+
+Abdelkarim Zirar  
+MA Data and Discourse Studies  
+Technische Universität Darmstadt
